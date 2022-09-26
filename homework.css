@@ -1,0 +1,17 @@
+header {
+    background-color: dodgerblue;
+    color: white;
+    font-family: sans-serif;
+    padding: 5px;
+    style="list-style-type: none;"
+    
+}
+
+* {
+    font-family: sans-serif;  
+ 
+}
+
+#header-logo {
+    padding: 15px;
+}
